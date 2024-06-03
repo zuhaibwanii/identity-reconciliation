@@ -1,5 +1,5 @@
 # Identity reconciliation backend 
-Hosted endpoint - 
+Hosted endpoint - https://identity-reconciliation-0rr9.onrender.com/identify
 
 # App created using Node, Express, MySQL, Prisma
 
